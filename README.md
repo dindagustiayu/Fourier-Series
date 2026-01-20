@@ -162,7 +162,7 @@ A square wave is a non-sinusoidal periodic waveform in which the amplitude alter
 - Amplitudes: 1/Harmonic Number.
 - Phase: All harmonics in phase.
 <p align="center">
-    $f_{sq}(t)=\frac{4}{\pi}\sum_{\infty}^{k=1}sin[2\pi(2k-1)vt]$
+    $f_{sq}(t)=\frac{4}{\pi}\sum^{\infty}_{k=1}sin[2\pi(2k-1)vt]$
 </p>
 
 Write the partials of a square wave using summation notation. Recall that a square wave has only odd harmonics, the amplitudes of the harmonics are (1/harmonic number), and all harmonics are in phase.
